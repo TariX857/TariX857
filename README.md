@@ -3,7 +3,7 @@ Hi There 👋
 I am Tarik I like to program, organize projects and play online. Learning new things is always interesting in my opinion and this has prompted me to approach the world of programming.
 
 ## My Sites:
-- **<a href="https://tariksite.netlify.app/">Here!<a/>**
+- **<a href="[https://tariksite.netlify.app/](https://tariksite.vercel.app/)">Here!<a/>**
 
 ## Social
 [![](https://skillicons.dev/icons?i=discord)](https://discord.gg/2ceG4TbahX)
