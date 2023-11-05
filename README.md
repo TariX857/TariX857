@@ -6,7 +6,7 @@ I am Tarik I like to program, organize projects and play online. Learning new th
 - **<a href="https://tariksite.vercel.app/">Here!<a/>**
 
 ## Social
-[![](https://skillicons.dev/icons?i=discord)](https://discord.gg/2ceG4TbahX)
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/816334029242499103)
 ## My Informatic competences:
 - FrontEnd <br> <br>
 [![](https://skillicons.dev/icons?i=html,css,js,nextjs,md,svg,bootstrap)](https://github.com/TariX857?tab=repositories)
